@@ -5,4 +5,4 @@ O projeto foi criado como atividade prática da disciplina de WebDesign<br />
 Relatorio e resumo inclusos no repositorio para avaliação <br />
 
 teste a aplicação:<br />
-execute Idex.html usando algum navegador.
+execute Index.html usando algum navegador.
